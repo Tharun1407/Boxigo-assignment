@@ -1,0 +1,38 @@
+.additional-data {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.btn {
+  height: 40px;
+  width: 200px;
+  border-radius: 5px;
+  color: white;
+  background-color: black;
+  margin-top: 15px;
+}
+
+.house-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.house-heading {
+  color: rgb(216, 84, 22);
+  font-family: roboto;
+  font-size: 25px;
+}
+
+.inv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.select1 {
+  height: 30px;
+  width: 400px;
+  border-width: 2px;
+}

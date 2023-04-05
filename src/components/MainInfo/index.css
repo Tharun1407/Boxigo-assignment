@@ -1,0 +1,47 @@
+.move-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.address {
+  width: 600px;
+}
+
+.button1 {
+  height: 40px;
+  width: 200px;
+  border-color: rgb(216, 84, 22);
+  border-radius: 5px;
+  color: rgb(216, 84, 22);
+  background-color: white;
+}
+
+.button2 {
+  height: 40px;
+  width: 200px;
+  background-color: rgb(216, 84, 22);
+  border-radius: 5px;
+  border-width: 0px;
+  color: white;
+}
+
+.main-container {
+  margin: 0px;
+  padding: 30px;
+}
+
+.req_id {
+  color: rgb(216, 84, 22);
+  font-weight: bold;
+}
+
+.sub-para {
+  font-weight: bold;
+  color: black;
+}
+
+hr {
+  border-width: 1px;
+  color: whitesmoke;
+}

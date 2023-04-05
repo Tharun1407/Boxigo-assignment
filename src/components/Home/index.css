@@ -1,0 +1,27 @@
+.main-heading {
+  padding-left: 30px;
+}
+
+.sidebar {
+  background-color: rgb(216, 84, 22);
+  color: white;
+  width: 15%;
+}
+
+.rem {
+  width: 85%;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+li {
+  list-style-type: none;
+  padding: 15px;
+  font-weight: bold;
+  color: white;
+  margin-top: 15px;
+}
